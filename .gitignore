@@ -1,0 +1,6 @@
+
+# pycharm files
+.idea
+.git
+venv/
+build-eclipse/
